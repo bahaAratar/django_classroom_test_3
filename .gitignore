@@ -1,0 +1,5 @@
+venv
+main/__pycache__
+test1/__pycache__
+test2/__pycache__
+
